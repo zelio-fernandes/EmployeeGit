@@ -10,6 +10,8 @@ public class Main {
 		
 		System.out.println(e.getId());
 		System.out.println();
+		System.out.println(e.getEmployeeName());
+		System.out.println(e.getSalary());
 		
 	}
 
